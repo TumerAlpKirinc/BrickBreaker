@@ -1,6 +1,6 @@
 # BrickBreaker  
 TR/EN  
-Yapım aşamasında / Under development  
+Unity ile geliştirilme aşamasında / Under development with Unity 
 
 <p>
   <img src="brickbreakergameplay.png" width="600">
